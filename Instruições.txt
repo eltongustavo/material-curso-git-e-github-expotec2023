@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1. Abra o arquivo .pptx para ver os slides do curso apresentado na EXPOTEC
+=======
+1. Abra o arquivo .pptx para ver os slides
+>>>>>>> parent of 5b67656 (Update Instruições.txt)
